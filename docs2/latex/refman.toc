@@ -1,0 +1,23 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Data Structure Index}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Data Structures}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Data Structure Documentation}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Duble\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Linked\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}List Class Reference}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Detailed Description}{3}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Constructor \& Destructor Documentation}{4}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.1}DubleLinkedList()}{4}{subsubsection.2.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.2.2}$\sim $DubleLinkedList()}{4}{subsubsection.2.1.2.2}%
+\contentsline {subsection}{\numberline {2.1.3}Member Function Documentation}{4}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}addRandomToBack()}{4}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}addRandomToHead()}{4}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}clear()}{5}{subsubsection.2.1.3.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.4}display()}{5}{subsubsection.2.1.3.4}%
+\contentsline {subsubsection}{\numberline {2.1.3.5}displayReverse()}{5}{subsubsection.2.1.3.5}%
+\contentsline {subsubsection}{\numberline {2.1.3.6}insertRandomAt()}{5}{subsubsection.2.1.3.6}%
+\contentsline {subsubsection}{\numberline {2.1.3.7}removeAt()}{5}{subsubsection.2.1.3.7}%
+\contentsline {subsubsection}{\numberline {2.1.3.8}removeFromBack()}{6}{subsubsection.2.1.3.8}%
+\contentsline {subsubsection}{\numberline {2.1.3.9}removeFromHead()}{6}{subsubsection.2.1.3.9}%
+\contentsline {section}{\numberline {2.2}Node Struct Reference}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Detailed Description}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Constructor \& Destructor Documentation}{7}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2.1}Node()}{7}{subsubsection.2.2.2.1}%
